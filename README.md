@@ -48,8 +48,6 @@ The repository contains the academic research report documenting the comparative
 ## Conclusion
 The study highlights the differences in supply chain approaches across the three automobile manufacturers and combines quantitative performance indicators with qualitative risk analysis to assess supply chain resilience and operational maturity.
 
----
-
-**Project:** Group 9  
+---  
 **Programme:** MBA – Business Analytics  
 **Institution:** NMIMS, Mumbai
